@@ -1,0 +1,1 @@
+// Placeholder da página de organizações

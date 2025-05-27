@@ -1,0 +1,1 @@
+# Placeholder dos serializers Django

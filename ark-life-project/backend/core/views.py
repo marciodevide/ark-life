@@ -1,0 +1,1 @@
+# Placeholder das views Django
